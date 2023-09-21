@@ -1,0 +1,16 @@
+div.dropdown-menu.show{
+    background-color: black;
+    
+}
+
+.dropdown-item{
+    color: white;
+}
+
+button.btn.btn-black{
+    color: white;
+}
+
+button.btn-close{
+    background-color: white;
+}
